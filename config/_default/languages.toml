@@ -1,0 +1,11 @@
+[en]
+title = "Simona Gurri'"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[it]
+title = "Simona Gurrì"
+contentDir = "content/italian" 
+weight = 2 
+LanguageName = "IT"

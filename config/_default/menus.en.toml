@@ -1,0 +1,41 @@
+  [[main]]
+  name = "About"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Research Projects"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "Accomplishments"
+  weight = 300
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Awards"
+  weight = 310
+  identifier = "awards"
+  url = "/awards/"
+  parent = "accomplishments"  
+
+  [[main]]
+  name = "Certifications"
+  weight = 320
+  identifier = "certifications"
+  url = "/certifications/"
+  parent = "accomplishments"
+
+  [[main]]
+  name = "Contact"
+  weight = 400
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "disclosure"
+  weight = 1
+  identifier = "disclosure"
+  url = "/disclosure/"

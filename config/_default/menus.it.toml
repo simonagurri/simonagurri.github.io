@@ -1,0 +1,16 @@
+  [[main]]
+  name = "Conosciamoci"
+  weight = 100
+  url = "/it/"
+
+  [[main]]
+  name = "Novità"
+  weight = 200
+  identifier = "portfolio"
+  url = "/it/portfolio/"
+
+  [[main]]
+  name = "Contattami"
+  weight = 400
+  identifier = "contact"
+  url = "/it/contact/"

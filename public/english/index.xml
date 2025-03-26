@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on My New Hugo Site</title>
+    <link>http://localhost:56785/english/</link>
+    <description>Recent content in About on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:56785/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:56785/english/archives/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/english/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Awards</title>
+      <link>http://localhost:56785/english/awards/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/english/awards/</guid>
+      <description>&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;First Place in Engineering and Industrial Design&lt;/strong&gt; at 2018 PACE Forum competition, Warren, Michigan, USA as part of Team PACE (Partners for the Advancement of Collaborative Engineering Education) @PoliTo, an international team, comprising students from Politecnico di Torino, Tongji and Hunan Universities (China), TU Darmstadt and RWTH Aachen (Germany), and Kookmin University (South Korea).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Courses and Certifications</title>
+      <link>http://localhost:56785/english/certifications/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/english/certifications/</guid>
+      <description>&lt;h2 id=&#34;advanced-training&#34;&gt;Advanced Training&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dive into the World of HPC: Parallel and Accelerated Computing&lt;/strong&gt; (2024)&#xA;80 hours, CINECA&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Towards Data Analysis and Machine Learning – Data Structures in Python (Advanced Level)&lt;/strong&gt; (2023)&#xA;40 hours, Politecnico di Torino&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Railway Engineer Course – Organization, Technics, and Safety in the Railway Field&lt;/strong&gt; (2021)&#xA;60 hours, CIFI&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;professional-certifications&#34;&gt;Professional Certifications&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;CSWA – Certified SOLIDWORKS Associate in Mechanical Design&lt;/strong&gt; (2018)&#xA;SolidWorks Authorized Training Centre&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;standardized-tests&#34;&gt;Standardized Tests&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Graduate Record Examination (GRE) – General Test&lt;/strong&gt; (2021)&#xA;ETS&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;TFI – Test de Français International&lt;/strong&gt; (2019)&#xA;ETS EMEA&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;ongoing-education&#34;&gt;Ongoing Education&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Regular participation in workshops and seminars on CFD and advanced energy technologies&lt;/li&gt;&#xA;&lt;li&gt;Attending a course on ML for CFD&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:56785/english/about/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/english/about/</guid>
+      <description>&lt;p&gt;My research field is Computational Fluid Dynamics (CFD) with a broad understanding of transportation systems. My expertise lies in leveraging advanced simulation techniques to drive innovation in sustainable mobility and energy efficiency.&lt;/p&gt;&#xA;&lt;p&gt;As a Research Fellow at Politecnico di Torino, I focus on energy engineering and CFD, working under the guidance of professor Alessandro Ferrari. My journey in this field has been marked by a continuous pursuit of knowledge.&lt;/p&gt;&#xA;&lt;h2 id=&#34;expertise-in-cfd&#34;&gt;Expertise in CFD&lt;/h2&gt;&#xA;&lt;p&gt;My work in CFD has been focusing particularly in modeling low-carbon fuel internal combustion engines. I&amp;rsquo;ve employed CONVERGE CFD for 3D RANS simulations, integrating advanced models to capture complex turbulence-chemistry interactions. This experience has honed my skills in:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>http://localhost:56785/english/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/english/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56785/english/disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/english/disclosure/</guid>
+      <description>&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer:&lt;/h2&gt;&#xA;&lt;p&gt;The content on this site is provided for informational purposes only and should not be considered professional advice.&lt;/p&gt;&#xA;&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy:&lt;/h2&gt;&#xA;&lt;p&gt;This site does not collect personal data unless you choose to contact me via email. Any data provided will be used solely for responding to your inquiries.&lt;/p&gt;&#xA;&lt;h2 id=&#34;copyright-notice&#34;&gt;Copyright Notice:&lt;/h2&gt;&#xA;&lt;p&gt;All content on this site is copyrighted by the author unless otherwise specified.&lt;/p&gt;&#xA;&lt;h2 id=&#34;legal-disclosure&#34;&gt;Legal Disclosure&lt;/h2&gt;&#xA;&lt;p&gt;Information in accordance with the applicable law.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

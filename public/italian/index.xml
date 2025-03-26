@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:56785/italian/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:56785/italian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:56785/italian/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/italian/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scrivimi</title>
+      <link>http://localhost:56785/italian/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/italian/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:56785/italian/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56785/italian/about/</guid>
+      <description>&lt;p&gt;title = &amp;ldquo;Conosciamoci&amp;rdquo;&#xA;description = &amp;ldquo;PhD candidate in Energetics&amp;rdquo;&#xA;date = &amp;ldquo;2025-03-21&amp;rdquo;&#xA;aliases = [&amp;ldquo;about-me&amp;rdquo;, &amp;ldquo;about-simo&amp;rdquo;, &amp;ldquo;contact&amp;rdquo;]&#xA;author = &amp;ldquo;Simona Gurrì&amp;rdquo;&#xA;+++&lt;/p&gt;&#xA;&lt;p&gt;CIAO&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
