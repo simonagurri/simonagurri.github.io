@@ -1,6 +1,6 @@
 
-title = "Simona Gurrì"
-author = "Simona Gurrì"
+title = "Simona Gurri'"
+author = "Simona Gurri'"
 copyright = "2025"
 description = "PhD candidate in Energetics"
 profilePicture = "images/profile.jpg"
@@ -62,7 +62,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fa-brands' when brand icons, use 'fas' when standard solid icons.
 [[socialIcons]]
-icon = "fa-solid fa-id-card"
+icon = "fa-solid fa-file-user"
 title = "CV"
 url = "https://simonagurri.github.io/uploads/AcademicCV.pdf"
 
