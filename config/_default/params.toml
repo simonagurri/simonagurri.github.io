@@ -14,6 +14,8 @@ mainSections = [""]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 
+contentratio = 0.7
+
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 #contactFormReCaptcha = "your-site-key-here"
@@ -55,6 +57,7 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 [math]
 enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
+
 
 ## Social links
 # use 'fa-brands' when brand icons, use 'fas' when standard solid icons.
