@@ -2,40 +2,16 @@
 author = "Hugo Authors"
 +++
 
-Lavoro nel campo della Fluidodinamica Computazionale (CFD) e ho un background trasversale sui sistemi di trasporto. Attualmente sto per discutere la tesi di PhD e sono Assegnista di Ricerca al Politecnico di Torino nel Dipartimento di Energia.
+Lavoro nel campo della fluidodinamica computazionale (CFD) applicata ai sistemi di trasporto. La mia passione è utilizzare tecniche di simulazione avanzate per promuovere l'innovazione nella mobilità sostenibile e nell'efficienza energetica. Attualmente sto per discutere la tesi di PhD e sono Assegnista di Ricerca al Politecnico di Torino nel Dipartimento di Energia.
 
-## La mia ricerca
+Il fulcro della mia ricerca è la modellazione di motori a combustione interna per veicoli pesanti a basse emissioni, utilizzando CONVERGE CFD per simulazioni 3D RANS. Questo lavoro mi permette di affrontare le complesse interazioni tra turbolenza e chimica dei fluidi, un campo che trovo affascinante e in continua evoluzione.
 
-Mi occupo principalmente di modellazione CFD avanzata, concentrandomi sui motori a combustione interna a basse emissioni. Utilizzo software all'avanguardia per simulazioni 3D RANS con CONVERGE, integrando modelli avanzati per studiare le complesse interazioni tra turbolenza e chimica nei processi di combustione.
+Durante il mio dottorato, ho avuto l'opportunità di lavorare su una vasta gamma di progetti: dalla progettazione di treni merci di nuova generazione a trattori elettrici per piazzali. Questa esperienza mi ha permesso di sviluppare una visione olistica dei sistemi di trasporto, sempre con l'obiettivo di migliorare l'efficienza energetica nella logistica.
 
-## Progetti e interessi
+Attualmente, sono particolarmente entusiasta delle potenzialità dell'intelligenza artificiale e del machine learning nella CFD. Sto attivamente cercando modi per integrare queste tecnologie nelle mie ricerche, convinta che possano aprire nuove strade nella comprensione e nella simulazione dei fenomeni fluidodinamici.
 
-Ho lavorato su diversi progetti innovativi, spaziando dai treni merci di nuova generazione ai veicoli elettrici per la movimentazione portuale. Sono particolarmente interessata all'applicazione dell'intelligenza artificiale e del machine learning nella CFD, convinta del loro potenziale per rivoluzionare le simulazioni fluidodinamiche.
+La mia formazione e la mia esperienza mi hanno insegnato l'importanza di un approccio multidisciplinare. Credo fermamente che la diversità di prospettive, inclusa quella di genere, sia fondamentale per affrontare le sfide complesse nel campo dell'ingegneria e della sostenibilità.
 
-## Oltre il laboratorio
+Fuori dal laboratorio, sono un'appassionata di sport all'aria aperta: dall'escursionismo al sub, amo esplorare la natura in tutte le sue forme. Sono anche una fotografa amatoriale, sempre alla ricerca di paesaggi urbani e naturali che possano ispirare non solo la mia anima, ma anche il mio approccio al lavoro scientifico. Queste attività mi aiutano a mantenere una prospettiva equilibrata e spesso mi forniscono intuizioni inaspettate per la mia ricerca.
 
-Nel tempo libero, amo esplorare la natura attraverso lo sport. La fotografia è un'altra mia passione: catturare paesaggi urbani e naturali spesso ispira il mio lavoro scientifico e la mia inclinazione alla scrittura.
-
-**Sono sempre aperta a nuove collaborazioni su progetti stimolanti nel campo della CFD e delle tecnologie sostenibili. Se vuoi discutere di potenziali collaborazioni o semplicemente confrontarti sulle ultime novità in CFD, non esitare a contattarmi!**
-
-<!--
-This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
-
-Although the theme has advanced a little bit and it now allows to specify the content on the main page (even if the list of posts/articles is not intended).
-This can be:
-- with the list of posts/articles (default: `mainSections = ["post"]) or
-- without the list of posts/articles (by setting `mainSections = [""]`)
-
-Markdown supported, ie:
-
-```
-# Welcome
-
-- Hugo :rocket:
-- Hugo theme :rocket:
-
-Don't forget to check the README.md file!
-```
-
-Remember that you can also specify a section header for the posts below by configuring the `mainSectionsTitle` parameter in the front matter of this file.
--->
+Sono sempre aperta a collaborazioni su progetti stimolanti che spingano i confini della CFD e le sue applicazioni nelle tecnologie sostenibili. Se siete interessati a discutere potenziali collaborazioni o semplicemente a confrontarvi sugli ultimi sviluppi nella CFD, non esitate a contattarmi! Credo fortemente nel potere della collaborazione e dello scambio di idee per far avanzare la nostra comprensione in questo campo affascinante.
