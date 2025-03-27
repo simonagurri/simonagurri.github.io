@@ -62,7 +62,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 ## Social links
 # use 'fa-brands' when brand icons, use 'fas' when standard solid icons.
 [[socialIcons]]
-icon = "fa-solid fa-file-user"
+icon = "fa-solid fa-id-card"
 title = "CV"
 url = "https://simonagurri.github.io/uploads/AcademicCV.pdf"
 

@@ -3,7 +3,7 @@ title = "Courses and Certifications"
 description = "Courses and Certifications"
 date = "2025-03-25"
 aliases = ["certifications"]
-author = "Simona Gurrì"
+author = "Simona Gurri'"
 +++
 
 ## Advanced Training

@@ -3,7 +3,7 @@ title = "About"
 description = "PhD candidate in Energetics"
 date = "2025-03-21"
 aliases = ["about-me", "about-simo", "contact"]
-author = "Simona Gurrì"
+author = "Simona Gurri'"
 +++
 
 My research field is Computational Fluid Dynamics (CFD) with a broad understanding of transportation systems. My expertise lies in leveraging advanced simulation techniques to drive innovation in sustainable mobility and energy efficiency.

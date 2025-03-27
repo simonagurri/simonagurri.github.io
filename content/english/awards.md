@@ -3,7 +3,7 @@ title = "Awards"
 description = "Awards, an annual literary award for the best science fiction or fantasy works"
 date = "2025-03-25"
 aliases = ["awards"]
-author = "Simona Gurrì"
+author = "Simona Gurri'"
 +++
 
 ## Awards
