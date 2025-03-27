@@ -16,6 +16,8 @@ portfolioitems:
         image: 'images/portfolio/optimization.jpg'
         description: 'Development of a new methodology for boundary condition optimization in 3D CFD simulations of engines. Currently under review for publication.'
         status: 'Under Review'
+        start: '2024'
+        end: '2025'
         tags:
           - CFD
           - Optimization
@@ -24,6 +26,8 @@ portfolioitems:
         image: 'images/portfolio/spark.jpg'
         description: 'Development of a new spark deposition model for SI engines in CONVERGE CFD, enhancing simulation accuracy for spark-ignition engines.'
         status: 'Ongoing'
+        start: '2024'
+        end: '2025'
         tags:
           - CFD
           - Engine Modeling
@@ -36,6 +40,8 @@ portfolioitems:
         image: 'images/portfolio/femu.png'
         description: 'Functional design of a next-generation freight train with distributed power. Used System Composer for architecture design and requirement management, and Simulink for simulating and validating the Integrated Monitoring System.'
         status: 'Finished'
+        start: '2021'
+        end: '2024'
         tags:
           - System Engineering
           - Railway
@@ -44,6 +50,8 @@ portfolioitems:
         image: 'images/portfolio/logistics.jpg'
         description: 'Simulation of next-generation freight train operation and integration in intermodal logistic chains using OpenTrack, Trenissimo, Anylogic, and ARENA Discrete Events Simulation.'
         status: 'Under Review'
+        start: '2021'
+        end: '2024'
         tags:
           - Logistics
           - Simulation
@@ -52,6 +60,8 @@ portfolioitems:
         image: 'images/portfolio/yardtractor.png'
         description: 'Conducted techno-economic analysis on electric yard tractors, including GPS and accelerometer data collection, in partnership with PSA Port of Genova.'
         status: 'Finished'
+        start: '2023'
+        end: '2024'
         tags:
           - Electric Vehicles
           - Data Analysis
@@ -60,6 +70,8 @@ portfolioitems:
         image: 'images/portfolio/buselt.png'
         description: 'Battery electric buses for Public transport: a methodological approach and results on energy consumption at different temperatures. \textbf{Data analysis} on fleet monitoring by \textit{Gruppo Torinese Trasporti}.'
         status: 'Finished'
+        start: '2024'
+        end: '2024'
         tags:
           - Electric Vehicles
           - Data Analysis
@@ -68,6 +80,8 @@ portfolioitems:
         image: 'images/portfolio/suppDemand.png'
         description: 'Large-scale mobility pattern analysis and powertrain optimization. Processed 200k-vehicle European dataset using Python/Pandas to identify urban/extra-urban driving cycles. Developed k-means clustering model grouping vehicles by usage patterns (15+ features), enabling targeted powertrain redesign. Data provided by Stellantis'
         status: 'Under Review'
+        start: '2023'
+        end: '2025'
         tags:
           - Personal mobility
           - Data Analysis
