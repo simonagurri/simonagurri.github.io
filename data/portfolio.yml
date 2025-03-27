@@ -4,17 +4,14 @@ portfolioitems:
     portfolioitem:
       - name: Turbulence-Combustion Interaction Modeling
         image: 'images/portfolio/cfd.jpg'
-        description: 'Advanced CFD modeling of turbulence-combustion interactions in low-carbon fuel engines using CONVERGE CFD for 3D RANS simulations. Integrated PDF for combustion models with detailed kinetics to capture turbulence-chemistry interaction.'
+        description: 'Advanced CFD modeling of turbulence-combustion interactions in low-carbon fuel heavy duty engines using CONVERGE CFD for 3D RANS simulations. Integrated PDF for combustion models with detailed kinetics to capture turbulence-chemistry interaction.'
         tags:
           - CFD
           - CONVERGE
           - Engine Modeling
-        status: 'Finished'
-        start: '2021'
-        end: '2024'
-        authors:
-          - Simona Gurrì
-          - Alessandro Ferrari
+        status: 'Ongoing'
+        start: '2023'
+        end: '2025'
       - name: Boundary Condition Optimization in CFD
         image: 'images/portfolio/optimization.jpg'
         description: 'Development of a new methodology for boundary condition optimization in 3D CFD simulations of engines. Currently under review for publication.'
@@ -26,7 +23,7 @@ portfolioitems:
       - name: Spark Deposition Model for SI Engines
         image: 'images/portfolio/spark.jpg'
         description: 'Development of a new spark deposition model for SI engines in CONVERGE CFD, enhancing simulation accuracy for spark-ignition engines.'
-        status: 'Finished'
+        status: 'Ongoing'
         tags:
           - CFD
           - Engine Modeling
@@ -38,6 +35,7 @@ portfolioitems:
       - name: Next-Generation Freight Train Design
         image: 'images/portfolio/femu.png'
         description: 'Functional design of a next-generation freight train with distributed power. Used System Composer for architecture design and requirement management, and Simulink for simulating and validating the Integrated Monitoring System.'
+        status: 'Finished'
         tags:
           - System Engineering
           - Railway
@@ -45,6 +43,7 @@ portfolioitems:
       - name: Intermodal Logistic Chain Simulation
         image: 'images/portfolio/logistics.jpg'
         description: 'Simulation of next-generation freight train operation and integration in intermodal logistic chains using OpenTrack, Trenissimo, Anylogic, and ARENA Discrete Events Simulation.'
+        status: 'Under Review'
         tags:
           - Logistics
           - Simulation
@@ -52,6 +51,7 @@ portfolioitems:
       - name: Electric Yard Tractor Analysis
         image: 'images/portfolio/yardtractor.png'
         description: 'Conducted techno-economic analysis on electric yard tractors, including GPS and accelerometer data collection, in partnership with PSA Port of Genova.'
+        status: 'Finished'
         tags:
           - Electric Vehicles
           - Data Analysis
@@ -59,6 +59,7 @@ portfolioitems:
       - name: Electric Bus Consumption vs Temperature
         image: 'images/portfolio/buselt.png'
         description: 'Battery electric buses for Public transport: a methodological approach and results on energy consumption at different temperatures. \textbf{Data analysis} on fleet monitoring by \textit{Gruppo Torinese Trasporti}.'
+        status: 'Finished'
         tags:
           - Electric Vehicles
           - Data Analysis
@@ -66,6 +67,7 @@ portfolioitems:
       - name: Urban vs Extraurban driving behaviors of European cars
         image: 'images/portfolio/suppDemand.png'
         description: 'Large-scale mobility pattern analysis and powertrain optimization. Processed 200k-vehicle European dataset using Python/Pandas to identify urban/extra-urban driving cycles. Developed k-means clustering model grouping vehicles by usage patterns (15+ features), enabling targeted powertrain redesign. Data provided by Stellantis'
+        status: 'Under Review'
         tags:
           - Personal mobility
           - Data Analysis
