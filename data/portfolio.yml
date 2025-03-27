@@ -68,7 +68,7 @@ portfolioitems:
           - Port Operations
       - name: Electric Bus Consumption vs Temperature
         image: 'images/portfolio/buselt.png'
-        description: 'Battery electric buses for Public transport: a methodological approach and results on energy consumption at different temperatures. \textbf{Data analysis} on fleet monitoring by \textit{Gruppo Torinese Trasporti}.'
+        description: 'Battery electric buses for Public transport: a methodological approach and results on energy consumption at different temperatures. Data analysis on fleet monitoring by Gruppo Torinese Trasporti.'
         status: 'Finished'
         start: '2024'
         end: '2024'
@@ -78,7 +78,7 @@ portfolioitems:
           - Public Transport
       - name: Urban vs Extraurban driving behaviors of European cars
         image: 'images/portfolio/suppDemand.png'
-        description: 'Large-scale mobility pattern analysis and powertrain optimization. Processed 200k-vehicle European dataset using Python/Pandas to identify urban/extra-urban driving cycles. Developed k-means clustering model grouping vehicles by usage patterns (15+ features), enabling targeted powertrain redesign. Data provided by Stellantis'
+        description: 'Large-scale mobility pattern analysis and powertrain optimization. Processed 200k-vehicle European dataset using Python/Pandas to identify urban/extra-urban driving cycles. Developed k-means clustering model grouping vehicles by usage patterns, enabling targeted powertrain choice. Data provided by Stellantis'
         status: 'Under Review'
         start: '2023'
         end: '2025'
