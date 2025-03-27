@@ -28,12 +28,6 @@
   url = "/certifications/"
   parent = "accomplishments"
 
-  [[main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
-
   [[footer]]
   name = "disclosure"
   weight = 1
