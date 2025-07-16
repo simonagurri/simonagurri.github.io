@@ -4,7 +4,8 @@ portfolioitems:
     portfolioitem:
       - name: Combustion Modeling
         image: 'images/portfolio/cfd.jpg'
-        description: 'Advanced CFD modeling of turbulence-combustion interactions in low-carbon fuel heavy duty engines using CONVERGE CFD for 3D RANS simulations. Use of 0D or 1D CFD tools like CANTERA.
+        description: 'Advanced CFD modeling of turbulence-combustion interactions in low-carbon fuel heavy duty engines using CONVERGE CFD for 3D RANS simulations. Use of 0D or 1D CFD tools like CANTERA.'
+        tags: 
           - CFD
           - CONVERGE
           - Engine Modeling
