@@ -2,16 +2,15 @@ portfolioitems:
   - title: CFD and Engine Modeling Projects
     description: 'Advanced computational fluid dynamics and engine modeling projects'
     portfolioitem:
-      - name: Turbulence-Combustion Interaction Modeling
+      - name: Combustion Modeling
         image: 'images/portfolio/cfd.jpg'
-        description: 'Advanced CFD modeling of turbulence-combustion interactions in low-carbon fuel heavy duty engines using CONVERGE CFD for 3D RANS simulations. Integrated PDF for combustion models with detailed kinetics to capture turbulence-chemistry interaction.'
-        tags:
+        description: 'Advanced CFD modeling of turbulence-combustion interactions in low-carbon fuel heavy duty engines using CONVERGE CFD for 3D RANS simulations. Use of 0D or 1D CFD tools like CANTERA.
           - CFD
           - CONVERGE
           - Engine Modeling
         status: 'Ongoing'
         start: '2023'
-        end: '2025'
+        end: '...'
       - name: Boundary Condition Optimization in CFD
         image: 'images/portfolio/optimization.jpg'
         description: 'Development of a new methodology for boundary condition optimization in 3D CFD simulations of engines. Currently under review for publication.'
@@ -25,7 +24,7 @@ portfolioitems:
       - name: Spark Deposition Model for SI Engines
         image: 'images/portfolio/spark.jpg'
         description: 'Development of a new spark deposition model for SI engines in CONVERGE CFD, enhancing simulation accuracy for spark-ignition engines.'
-        status: 'Ongoing'
+        status: 'Finished'
         start: '2024'
         end: '2025'
         tags:
@@ -59,7 +58,7 @@ portfolioitems:
       - name: Electric Yard Tractor Analysis
         image: 'images/portfolio/yardtractor.png'
         description: 'Conducted techno-economic analysis on electric yard tractors, including GPS and accelerometer data collection, in partnership with PSA Port of Genova.'
-        status: 'Finished'
+        status: 'Published|[Read the paper](http://dx.doi.org/10.2174/0126671212308027240430114324)'
         start: '2023'
         end: '2024'
         tags:
