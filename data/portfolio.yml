@@ -32,6 +32,16 @@ portfolioitems:
           - CFD
           - Engine Modeling
           - Spark Ignition
+      - name: 0D Turbulence model for engine CFD simulation
+        image: 'images/portfolio/turbulencecylinder.png'
+        description: 'Development of a turbulence model for 1D CFD engine simulations.'
+        status: 'Ongoing'
+        start: '2024'
+        end: '...'
+        tags:
+          - CFD
+          - Engine Modeling
+          - Turbulence
       - name: Fuel Injection Systems
         image: 'images/portfolio/injection.jpg'
         description: |
@@ -61,7 +71,7 @@ portfolioitems:
           **[Read the paper on _GNSS positioning for manoeuvring_ here!](https://doi.org/10.57597/IF.06.2025.ART.1)**
         status: 'Finished'
         start: '2021'
-        end: '2024'
+        end: '2025'
         tags:
           - System Engineering
           - Railway
@@ -71,7 +81,7 @@ portfolioitems:
         description: 'Simulation of next-generation freight train operation and integration in intermodal logistic chains using OpenTrack, Trenissimo, Anylogic, and ARENA Discrete Events Simulation.'
         status: 'Under Review'
         start: '2021'
-        end: '2024'
+        end: '2025'
         tags:
           - Logistics
           - Simulation
@@ -94,7 +104,7 @@ portfolioitems:
         description: 'Battery electric buses for Public transport: a methodological approach and results on energy consumption at different temperatures. Data analysis on fleet monitoring by Gruppo Torinese Trasporti.'
         status: 'Under Review'
         start: '2024'
-        end: '2024'
+        end: '2025'
         tags:
           - Electric Vehicles
           - Data Analysis
