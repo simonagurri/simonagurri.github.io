@@ -58,9 +58,8 @@ portfolioitems:
           - Intermodal Transport
       - name: Electric Yard Tractor Analysis
         image: 'images/portfolio/yardtractor.png'
-        description: 'Conducted techno-economic analysis on electric yard tractors, including GPS and accelerometer data collection, in partnership with PSA Port of Genova.
-
-           **[Read the paper](http://dx.doi.org/10.2174/0126671212308027240430114324)**'
+        description: 'Conducted techno-economic analysis on electric yard tractors, including GPS and accelerometer data collection, in partnership with PSA Port of Genova.  
+         **[Read the paper](http://dx.doi.org/10.2174/0126671212308027240430114324)**'
         status: 'Published'
         start: '2023'
         end: '2024'
