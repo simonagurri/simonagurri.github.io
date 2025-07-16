@@ -32,13 +32,33 @@ portfolioitems:
           - CFD
           - Engine Modeling
           - Spark Ignition
+      - name: Fuel Injection Systems
+        image: 'images/portfolio/injection.jpg'
+        description: |
+          Injected Fuel Mass and Flow Rate Control in Internal Combustion Engines: A Systematic Literature Review.
+
+           **[Read the paper here!](https://doi.org/10.3390/en17246455)**
+        status: 'Finished'
+        start: '2024'
+        end: '2024'
+        tags:
+          - Fuel
+          - Engine Modeling
+          - Injection
 
   - title: Transportation Systems Research
     description: 'Research projects focusing on sustainable and efficient transportation systems'
     portfolioitem:
       - name: Next-Generation Freight Train Design
         image: 'images/portfolio/femu.png'
-        description: 'Functional design of a next-generation freight train with distributed power. Used System Composer for architecture design and requirement management, and Simulink for simulating and validating the Integrated Monitoring System.'
+        description: |
+          Functional design of a next-generation freight train with distributed power. Used System Composer for architecture design and requirement management, and Simulink for simulating and validating the Integrated Monitoring System.
+
+          **[Read the paper on the _cruising speed_ here!](https://doi.org/10.57597/IF.05.2023.ART.1)**
+          
+          **[Read the paper on the _integrated monitoring system_ here!](https://doi.org/10.4203/ccc.7.8.3)**
+
+          **[Read the paper on _GNSS positioning for manoeuvring_ here!](https://doi.org/10.57597/IF.06.2025.ART.1)**
         status: 'Finished'
         start: '2021'
         end: '2024'
@@ -61,8 +81,7 @@ portfolioitems:
         description: |
           Conducted techno-economic analysis on electric yard tractors, including GPS and accelerometer data collection, in partnership with PSA Port of Genova.
 
-          **[Read the paper](http://dx.doi.org/10.2174/0126671212308027240430114324)**
-
+          **[Read the paper here!](http://dx.doi.org/10.2174/0126671212308027240430114324)**
         status: 'Published'
         start: '2023'
         end: '2024'
@@ -73,7 +92,7 @@ portfolioitems:
       - name: Electric Bus Consumption vs Temperature
         image: 'images/portfolio/buselt.png'
         description: 'Battery electric buses for Public transport: a methodological approach and results on energy consumption at different temperatures. Data analysis on fleet monitoring by Gruppo Torinese Trasporti.'
-        status: 'Finished'
+        status: 'Under Review'
         start: '2024'
         end: '2024'
         tags:
@@ -82,8 +101,11 @@ portfolioitems:
           - Public Transport
       - name: Urban vs Extraurban driving behaviors of European cars
         image: 'images/portfolio/suppDemand.png'
-        description: 'Large-scale mobility pattern analysis and powertrain optimization. Processed 200k-vehicle European dataset using Python/Pandas to identify urban/extra-urban driving cycles. Developed k-means clustering model grouping vehicles by usage patterns, enabling targeted powertrain choice. Data provided by Stellantis'
-        status: 'Under Review'
+        description: |
+          Large-scale mobility pattern analysis and powertrain optimization. Processed 200k-vehicle European dataset using Python/Pandas to identify urban/extra-urban driving cycles. Developed k-means clustering model grouping vehicles by usage patterns, enabling targeted powertrain choice. Data provided by Stellantis
+
+          **[Read the paper here!](https://doi.org/10.1016/j.treng.2025.100355)**
+        status: 'Published'
         start: '2023'
         end: '2025'
         tags:
