@@ -33,7 +33,7 @@ portfolioitems:
           - Engine Modeling
           - Spark Ignition
       - name: Turbulence model for CFD engine simulation
-        image: 'images/portfolio/turbulencecylinder.png'
+        image: 'images/portfolio/turb_schema.png'
         description: 'Development of a turbulence model for 1D CFD engine simulations.'
         status: 'Ongoing'
         start: '2024'
