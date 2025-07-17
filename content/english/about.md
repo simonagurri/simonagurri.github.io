@@ -10,65 +10,6 @@ My research field is Computational Fluid Dynamics (CFD) with a broad understandi
 
 As a Research Fellow at Politecnico di Torino, I focus on energy engineering and CFD, working under the guidance of professor Alessandro Ferrari. My journey in this field has been marked by a continuous pursuit of knowledge.
 
-<style>
-.timeline-arrow {
-  display: flex;
-  align-items: center;
-  margin: 2em 0;
-  overflow-x: auto;
-}
-.timeline-arrow .event {
-  position: relative;
-  flex: 0 0 auto;
-  text-align: center;
-}
-.timeline-arrow .circle {
-  width: 30px;
-  height: 30px;
-  background: #1e88e5;
-  color: #fff;
-  border-radius: 50%;
-  line-height: 30px;
-  margin: 0 10px;
-  display: inline-block;
-  font-weight: bold;
-  font-size: 1em;
-  transition: background 0.2s;
-  cursor: pointer;
-  text-decoration: none;
-}
-.timeline-arrow .circle:hover {
-  background: #1565c0;
-}
-.timeline-arrow .label {
-  margin-top: 6px;
-  font-size: 0.95em;
-  display: block;
-  width: 100px;
-}
-.timeline-arrow .arrow {
-  width: 40px;
-  height: 2px;
-  background: #456;
-  margin: 0 0.5em;
-  position: relative;
-}
-.timeline-arrow .arrow::after {
-  content: "";
-  position: absolute;
-  right: -7px; top: -5px;
-  border-top: 7px solid transparent;
-  border-bottom: 7px solid transparent;
-  border-left: 12px solid #456;
-}
-@media (max-width: 650px) {
-  .timeline-arrow .label {
-    width: 70px;
-    font-size: 0.85em;
-  }
-}
-</style>
-
 <div class="timeline-arrow">
 
   <div class="event">
