@@ -10,6 +10,102 @@ My research field is Computational Fluid Dynamics (CFD) with a broad understandi
 
 As a Research Fellow at Politecnico di Torino, I focus on energy engineering and CFD, working under the guidance of professor Alessandro Ferrari. My journey in this field has been marked by a continuous pursuit of knowledge.
 
+<style>
+.timeline-arrow {
+  display: flex;
+  align-items: center;
+  margin: 2em 0;
+  overflow-x: auto;
+}
+.timeline-arrow .event {
+  position: relative;
+  flex: 0 0 auto;
+  text-align: center;
+}
+.timeline-arrow .circle {
+  width: 30px;
+  height: 30px;
+  background: #1e88e5;
+  color: #fff;
+  border-radius: 50%;
+  line-height: 30px;
+  margin: 0 10px;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 1em;
+  transition: background 0.2s;
+  cursor: pointer;
+  text-decoration: none;
+}
+.timeline-arrow .circle:hover {
+  background: #1565c0;
+}
+.timeline-arrow .label {
+  margin-top: 6px;
+  font-size: 0.95em;
+  display: block;
+  width: 100px;
+}
+.timeline-arrow .arrow {
+  width: 40px;
+  height: 2px;
+  background: #456;
+  margin: 0 0.5em;
+  position: relative;
+}
+.timeline-arrow .arrow::after {
+  content: "";
+  position: absolute;
+  right: -7px; top: -5px;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+  border-left: 12px solid #456;
+}
+@media (max-width: 650px) {
+  .timeline-arrow .label {
+    width: 70px;
+    font-size: 0.85em;
+  }
+}
+</style>
+
+<div class="timeline-arrow">
+
+  <div class="event">
+    <a href="https://www.polito.it/" class="circle" title="Started PhD">22</a>
+    <span class="label">2021<br>Start PhD</span>
+  </div>
+
+  <div class="arrow"></div>
+
+  <div class="event">
+    <a href="https://www.isabe.org/" class="circle" title="ISABE Conference">23</a>
+    <span class="label">2023<br>ISABE Conf.</span>
+  </div>
+
+  <div class="arrow"></div>
+
+  <div class="event">
+    <a href="https://doi.org/10.XXXX/abcdefg" class="circle" title="Paper">24</a>
+    <span class="label">2024<br>1st Paper</span>
+  </div>
+
+  <div class="arrow"></div>
+
+  <div class="event">
+    <a href="https://www.linkedin.com/in/simonagurri" class="circle" title="LinkedIn">24</a>
+    <span class="label">2024<br>LinkedIn</span>
+  </div>
+
+  <div class="arrow"></div>
+
+  <div class="event">
+    <a href="files/Simona-Gurri-ResearchStatement.pdf" class="circle" title="Research Statement">25</a>
+    <span class="label">2025<br>Research PDF</span>
+  </div>
+
+</div>
+
 ## Expertise in CFD
 
 My work in CFD has been focusing particularly in modeling low-carbon fuel internal combustion engines. I've employed CONVERGE CFD for 3D RANS simulations, integrating advanced models to capture complex turbulence-chemistry interactions. This experience has honed my skills in:
