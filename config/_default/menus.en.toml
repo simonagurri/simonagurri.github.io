@@ -1,29 +1,34 @@
   [[main]]
-  name = "About"
+  name = "Home"
   weight = 100
   url = "/"
 
   [[main]]
-  name = "Research Projects"
+  name = "About"
   weight = 200
+  url = "/about"
+
+  [[main]]
+  name = "Research Projects"
+  weight = 300
   identifier = "portfolio"
   url = "/portfolio/"
 
   [[main]]
   name = "Accomplishments"
-  weight = 300
+  weight = 400
   identifier = "accomplishments"
 
   [[main]]
   name = "Awards"
-  weight = 310
+  weight = 410
   identifier = "awards"
   url = "/awards/"
   parent = "accomplishments"  
 
   [[main]]
   name = "Certifications"
-  weight = 320
+  weight = 420
   identifier = "certifications"
   url = "/certifications/"
   parent = "accomplishments"
