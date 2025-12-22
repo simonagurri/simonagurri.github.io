@@ -23,7 +23,7 @@ Outside the lab, you will probably find me running, on a padel or tennis court, 
 _This website collects my research projects, publications, and collaborations in energy and transport systems_.
 
 [LinkedIn](https://linkedin.com/in/simona-gurri)  
-[CV](static/uploads/AcademicCV.pdf)  
+[CV](https://simonagurri.github.io/uploads/AcademicCV.pdf)  
 [Google Scholar](https://scholar.google.com/citations?user=xTyvbgoAAAAJ&hl=en)
 
 <!--
