@@ -21,7 +21,7 @@ Outside the lab, you will probably find me running, on a padel or tennis court, 
 ​
 
 _This website collects my research projects, publications, and collaborations in energy and transport systems._
-_You can find my full CV in the ID card icon below my pic, as well as other contacs._
+_You can find my full CV in the ID card icon below my pic, as well as other contacts._
 
 [LinkedIn](https://linkedin.com/in/simona-gurri)    
 [Google Scholar](https://scholar.google.com/citations?user=xTyvbgoAAAAJ&hl=en)
