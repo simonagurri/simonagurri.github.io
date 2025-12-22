@@ -20,10 +20,10 @@ I am currently exploring **postdoctoral opportunities** in fluid dynamics, energ
 Outside the lab, you will probably find me running, on a padel or tennis court, or somewhere in the mountains with a camera in hand.
 ​
 
-_This website collects my research projects, publications, and collaborations in energy and transport systems_.
+_This website collects my research projects, publications, and collaborations in energy and transport systems._
+_You can find my full CV in the ID card icon below my pic, as well as other contacs._
 
-[LinkedIn](https://linkedin.com/in/simona-gurri)  
-[CV](https://simonagurri.github.io/uploads/AcademicCV.pdf)  
+[LinkedIn](https://linkedin.com/in/simona-gurri)    
 [Google Scholar](https://scholar.google.com/citations?user=xTyvbgoAAAAJ&hl=en)
 
 <!--
