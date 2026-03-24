@@ -14,10 +14,13 @@ portfolioitems:
         end: '...'
       - name: Boundary Condition Optimization in CFD
         image: 'images/portfolio/optimization.jpg'
-        description: 'Development of a new methodology for boundary condition optimization in 3D CFD simulations of engines. Currently under review for publication.'
-        status: 'Under Review'
+        description: | 
+          Development of a new methodology for boundary condition optimization in 3D CFD simulations of engines. 
+
+          **[Read the paper here!](https://doi.org/10.1016/j.applthermaleng.2026.130270)**
+        status: 'Finished'
         start: '2024'
-        end: '2025'
+        end: '2026'
         tags:
           - CFD
           - Optimization
@@ -27,7 +30,7 @@ portfolioitems:
         description: 'Development of a new spark deposition model for SI engines in CONVERGE CFD, enhancing simulation accuracy for spark-ignition engines.'
         status: 'Under Review'
         start: '2024'
-        end: '2025'
+        end: '2026'
         tags:
           - CFD
           - Engine Modeling
@@ -78,10 +81,13 @@ portfolioitems:
           - Simulation
       - name: Intermodal Logistic Chain Simulation
         image: 'images/portfolio/logistics.jpg'
-        description: 'Simulation of next-generation freight train operation and integration in intermodal logistic chains using OpenTrack, Trenissimo, Anylogic, and ARENA Discrete Events Simulation.'
-        status: 'Under Review'
+        description: |
+          Simulation of next-generation freight train operation and integration in intermodal logistic chains using OpenTrack, Trenissimo, Anylogic, and ARENA Discrete Events Simulation.
+
+           **[Read the paper here!](https://doi.org/10.1016/j.cstp.2026.101774)**
+        status: 'Finished'
         start: '2021'
-        end: '2025'
+        end: '2026'
         tags:
           - Logistics
           - Simulation
