@@ -12,7 +12,7 @@ portfolioitems:
         status: 'Ongoing'
         start: '2023'
         end: '...'
-      - name: Boundary Condition Optimization in CFD
+      - name: Boundary Conditions Optimization in 3D CFD
         image: 'images/portfolio/Figure_12.png'
         description: | 
           Development of a new methodology for boundary condition optimization in 3D CFD simulations of engines. 
