@@ -48,4 +48,4 @@ localizedDates = true
     #shortname = 'your-disqus-shortname'
 # Google Analytics
   [services.googleAnalytics]
-    #ID = 'G-MEASUREMENT_ID'
+    ID = 'G-FFW4NH8G0B'
