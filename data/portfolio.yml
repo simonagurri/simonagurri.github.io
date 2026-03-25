@@ -26,7 +26,7 @@ portfolioitems:
           - Optimization
           - Engine Simulation
       - name: Spark Deposition Model for SI Engines
-        image: 'images/portfolio/spark.jpg'
+        image: 'images/portfolio/combustion_1.mp4'
         description: 'Development of a new spark deposition model for SI engines in CONVERGE CFD, enhancing simulation accuracy for spark-ignition engines.'
         status: 'Under Review'
         start: '2024'
