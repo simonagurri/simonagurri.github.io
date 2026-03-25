@@ -2,6 +2,16 @@ portfolioitems:
   - title: CFD and Engine Modeling Projects
     description: 'Advanced computational fluid dynamics and engine modeling projects'
     portfolioitem:
+      - name: Spark Deposition Model for SI Engines
+        image: 'images/portfolio/combustion_1.mp4'
+        description: 'Development of a new spark deposition model for SI engines in CONVERGE CFD, enhancing simulation accuracy for spark-ignition engines.'
+        status: 'Under Review'
+        start: '2024'
+        end: '2026'
+        tags:
+          - CFD
+          - Engine Modeling
+          - Spark Ignition
       - name: Combustion Modeling
         image: 'images/portfolio/cfd.jpg'
         description: 'Advanced CFD modeling of turbulence-combustion interactions in low-carbon fuel heavy duty engines using CONVERGE CFD for 3D RANS simulations. Use of 0D or 1D CFD tools like CANTERA.'
@@ -25,16 +35,6 @@ portfolioitems:
           - CFD
           - Optimization
           - Engine Simulation
-      - name: Spark Deposition Model for SI Engines
-        image: 'images/portfolio/combustion_1.mp4'
-        description: 'Development of a new spark deposition model for SI engines in CONVERGE CFD, enhancing simulation accuracy for spark-ignition engines.'
-        status: 'Under Review'
-        start: '2024'
-        end: '2026'
-        tags:
-          - CFD
-          - Engine Modeling
-          - Spark Ignition
       - name: Turbulence model for CFD engine simulation
         image: 'images/portfolio/turb_schema.png'
         description: 'Development of a turbulence model for 1D CFD engine simulations.'
