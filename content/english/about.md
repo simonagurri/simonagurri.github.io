@@ -47,6 +47,8 @@ These activities help me maintain a balanced perspective and often provide unexp
 
 My work is naturally **collaborative** and sits at the intersection of engine development, transport operations, and energy systems analysis. I have co‑supervised master’s theses across energy, mechanical, civil, and aeronautical engineering, and contributed to teaching in areas such as electric mobility, on‑board data collection, and data‑driven analysis of vehicle and transport systems.
 
+I am currently **Global Engagement Chair** for the ASME DRIVN 2026 conference and hope to meet you there!
+
 I am always eager to collaborate on projects that push the boundaries of CFD and its applications in sustainable technologies. If you are interested in discussing potential collaborations, student projects, or simply exchanging ideas on CFD, combustion, and sustainable transport, please feel free to contact me.
 
 <!--
