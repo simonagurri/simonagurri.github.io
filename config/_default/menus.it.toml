@@ -4,7 +4,7 @@
   url = "/it/"
 
   [[main]]
-  name = "Novità"
+  name = "Progetti"
   weight = 200
   identifier = "portfolio"
   url = "/it/portfolio/"

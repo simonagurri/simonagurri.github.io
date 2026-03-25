@@ -1,11 +1,12 @@
 +++
-description = "Dottoranda in Energetica"
+title = "Conosciamoci"
+description = "Assegnista di Ricerca in Energetica"
 author = "Simona Gurri'"
 +++
 
-Sono una **dottoressa di ricerca in Ingegneria Meccanica** con una solida esperienza nei **sistemi di trasporto merci** e un profondo interesse per la fisica che ne regola il funzionamento. Durante i miei studi sui trasporti merci e i loro vincoli operativi e infrastrutturali, ho iniziato a esplorare i processi fisici sottostanti al consumo energetico e alle emissioni, portandomi verso la dinamica dei fluidi e la modellazione dettagliata dei motori.
+Sono una **dottoressa di ricerca in Energetica** con una solida esperienza nei **sistemi di trasporto merci** e un profondo interesse per la fisica che ne regola il funzionamento. Durante i miei studi sui trasporti merci e i loro vincoli operativi e infrastrutturali, ho iniziato a esplorare i processi fisici sottostanti al consumo energetico e alle emissioni, portandomi verso la dinamica dei fluidi e la modellazione dettagliata dei motori.
 
-Il mio campo di ricerca è ora la **Dinamica dei Fluidi Computazionale (CFD)**, supportata da una visione d'insieme dei sistemi di trasporto. La mia competenza consiste nell'utilizzare modellazione, simulazione e analisi data-driven per innovare nella mobilità sostenibile e nell'efficienza energetica. Lavoro all'intersezione tra ingegneria dei trasporti e scienze termo-fluidodinamiche, con strumenti che collegano i processi di combustione a scala motore con le prestazioni a scala sistema.
+Il mio campo di ricerca è ora la **Fluidodinamica Computazionale (CFD)**, supportata da una visione d'insieme dei sistemi di trasporto. La mia competenza consiste nell'utilizzare modellazione, simulazione e analisi data-driven per innovare nella mobilità sostenibile e nell'efficienza energetica. Lavoro all'intersezione tra ingegneria dei trasporti e scienze termo-fluidodinamiche, con strumenti che collegano i processi di combustione a scala motore con le prestazioni a scala sistema.
 
 ## Tema principale della ricerca
 
@@ -43,5 +44,7 @@ Queste attività mi aiutano a mantenere una prospettiva equilibrata e spesso for
 ## Collaborazione e supervisione
 
 Il mio lavoro è per natura **collaborativo** e si colloca all'intersezione tra sviluppo motore, operazioni di trasporto e analisi dei sistemi energetici. Ho co-supervisionato tesi magistrali in ingegneria energetica, meccanica, civile e aeronautica, e ho contribuito all'insegnamento in ambiti come mobilità elettrica, raccolta dati di bordo e analisi data-driven di sistemi veicolari e di trasporto.
+
+Attualmente sono **Global Engagement Chair** per la conferenza **ASME DRIVN 2026** e spero di incontrarvi lì.
 
 Sono sempre disponibile per collaborare su progetti che spingano i limiti della CFD e delle sue applicazioni nelle tecnologie sostenibili. Se siete interessati a discutere potenziali collaborazioni, progetti studenteschi o semplicemente a scambiare idee su CFD, combustione e trasporti sostenibili, non esitate a contattarmi.
