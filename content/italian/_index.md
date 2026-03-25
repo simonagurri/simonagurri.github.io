@@ -12,11 +12,11 @@ Il mio campo di ricerca è ora la **Fluidodinamica Computazionale (CFD)**, suppo
 
 Il filo conduttore del mio lavoro è l'**integrazione tra modellazione fisica e analisi data-driven per tecnologie di trasporto sostenibili**. A scala motore, ciò comprende simulazioni CFD di combustione e turbolenza in motori pesanti a carburanti a basso contenuto di carbonio, modellazione dell'iniezione e della formazione della miscela, e sviluppo di modelli per il progetto e il controllo di tecnologie a combustione interna avanzate.
 
-A scala sistema, utilizzo dati da flotte e operazioni reali – come autobus elettrici, veicoli passeggeri o servizi merci – per quantificare come schemi di guida, temperatura, topografia e infrastrutture influenzino consumi ed emissioni. Collegare queste scale mi permette di studiare come variazioni in strategie di combustione, carburanti o controllo impattino non solo l'efficienza del motore, ma anche le prestazioni a livello flotta e la fattibilità di diversi scenari operativi.
+A scala sistema, utilizzo dati da flotte e esercizio reali – come autobus elettrici, veicoli passeggeri o servizi merci – per quantificare come stili di guida, temperatura, topografia e infrastrutture influenzino consumi ed emissioni. Collegare queste scale mi permette di studiare come variazioni in strategie di combustione, carburanti o controllo impattino non solo l'efficienza del motore, ma anche le prestazioni a livello flotta e la fattibilità di diversi scenari operativi.
 
 ## Competenze in CFD
 
-Il mio lavoro in CFD si è concentrato in particolare sulla modellazione di motori pesanti a combustione interna a carburanti a basso contenuto di carbonio. Impiego CONVERGE CFD per simulazioni 3D RANS, integrando modelli avanzati per catturare le complesse interazioni turbolenza-chimica e ottimizzare le condizioni al contorno per simulazioni predittive del cilindro. Questa esperienza ha affinato le mie competenze in:
+Il mio lavoro in CFD si è concentrato in particolare sulla modellazione di motori pesanti a combustione interna a carburanti a basso contenuto di carbonio. Utilizzo CONVERGE CFD per simulazioni 3D RANS, sviluppando modelli per catturare le complesse interazioni turbolenza-chimica. Ho sviluppato una strategia basata su un modello multizona di convezione del calore per ottimizzare le condizioni al contorno per simulazioni 3D CFD predittive del cilindro. Questa esperienza ha affinato le mie competenze in:
 
 - Modellazione CFD avanzata per motori e combustione  
 - Selezione e sviluppo di modelli di turbolenza e combustione  
