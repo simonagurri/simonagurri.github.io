@@ -20,6 +20,13 @@
   identifier = "accomplishments"
 
   [[main]]
+  name = "Publications"
+  weight = 405
+  identifier = "publications"
+  url = "/publications/"
+  parent = "accomplishments"
+
+  [[main]]
   name = "Awards"
   weight = 410
   identifier = "awards"

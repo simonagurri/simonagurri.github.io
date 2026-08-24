@@ -6,15 +6,15 @@ aliases = ["about-me", "about-simo", "contact"]
 author = "Simona Gurri'"
 +++
 
-I am a recent PhD graduate and Research Fellow at Politecnico di Torino with a background in **freight transportation systems** and a fascination for the physics that govern how these systems behave. During my studies on freight transport and its operational and infrastructural constraints, I became increasingly interested in the physical processes hidden behind energy consumption and emissions, which led me toward fluid dynamics and detailed engine modeling.
+I am a Research Fellow at Politecnico di Torino working on **reactive Computational Fluid Dynamics of internal combustion engines** fuelled by low‑carbon alternatives (hydrogen, CNG, ethanol, methanol) for heavy‑duty applications. My work combines combustion and turbulence modeling, chemical kinetics, and high‑performance simulation, validated against experimental engine data.
 
-My research field is now **Computational Fluid Dynamics (CFD)**, supported by a broad understanding of transportation systems. My expertise lies in leveraging modeling, simulation, and data‑driven analysis to drive innovation in sustainable mobility and energy efficiency. I work at the interface between transportation engineering and thermofluid sciences, using tools that connect engine‑scale combustion processes with system‑level transport performance.
+My core expertise is in **engine‑scale combustion physics**: modeling in‑cylinder turbulence‑chemistry interactions, injection and mixture formation, and developing models that support the design and control of advanced internal combustion technologies. Alongside this, a background in **transportation and freight systems** gives me a system‑level perspective, connecting engine‑scale processes to fleet and network performance, which I bring to problems where combustion research meets real transport applications.
 
 ## Main research theme
 
-The main theme of my work is the **integration of physics‑based modeling and data‑driven analysis for sustainable transport technologies**. At the engine scale, this involves CFD simulations of combustion and turbulence in low‑carbon fuel heavy‑duty engines, modeling injection and mixture formation, and developing models that support the design and control of advanced internal combustion technologies.
+The core of my work is **physics‑based modeling of combustion and turbulence in low‑carbon fuel engines**: CFD simulations of in‑cylinder processes, injection and mixture formation, and the development of models that support the design and control of advanced internal combustion technologies for heavy‑duty applications.
 
-At the system scale, I use data from real fleets and operations, such as electric buses, passenger vehicles, or freight services, to quantify how driving patterns, temperature, topography, and infrastructure shape energy consumption and emissions. Connecting these scales allows me to study how changes in combustion strategy, fuel, or control impact not only engine efficiency but also fleet‑level performance and the feasibility of different deployment scenarios.
+This engine‑scale work connects naturally to a **system‑level view** of transport. Using data from real fleets and operations (electric buses, passenger vehicles, freight services) I have studied how driving patterns, temperature, topography, and infrastructure shape energy consumption and emissions. Linking the two scales lets me trace how a change in combustion strategy, fuel, or control propagates from engine efficiency to fleet‑level performance and deployment feasibility.
 
 ## Expertise in CFD
 
@@ -22,20 +22,23 @@ My work in CFD has focused particularly on modeling low‑carbon fuel heavy‑du
 
 - Advanced CFD modeling for engines and combustion  
 - Turbulence and combustion model selection and development  
+- Chemical kinetics and mechanism benchmarking (Cantera)  
 - Boundary condition optimization and workflow design  
 - High‑performance computing and large‑scale simulation campaigns  
 
 ## Bridging CFD with transportation systems
 
-During my PhD, I transitioned from addressing broad transportation challenges to focusing on engine CFD, always with a keen eye on enhancing energy efficiency and sustainability in logistics. My projects have spanned the design of next‑generation freight trains with distributed power, electric yard tractors, and analyses of public‑transport and passenger‑vehicle fleets, each driven by the goal of reducing environmental impact.
+During my PhD I worked across both engine CFD and transport‑systems research, and I still keep an active line in the latter, with two publications in progress. My transport projects have spanned the design of next‑generation freight trains with distributed power, electric yard tractors, and analyses of public‑transport and passenger‑vehicle fleets, each aimed at reducing environmental impact. This dual grounding is uncommon and directly relevant where engine and vehicle‑system research converge.
 
 My education and experience have taught me the importance of a multidisciplinary approach. I firmly believe that diversity of perspectives, including gender diversity, is fundamental in addressing complex challenges in engineering and sustainability.
 
-## Future directions: combustion, turbulence, and reduced‑order models
+## Future directions
 
-Looking ahead, my research will still focus on **combustion and turbulence modeling** for advanced engine technologies, with the goal of building models that are both physically sound and usable in design workflows. A key objective is to derive **reduced‑order models** from high‑fidelity CFD and experimental data, so that essential combustion and heat‑transfer physics can be embedded into engine control units (ECUs) for real‑time optimization and calibration.
+My research continues to move **deeper into combustion science**: I am building an increasingly fundamental understanding of how turbulence, chemistry, and heat transfer govern the combustion of low‑carbon and carbon‑free fuels, including an emerging line on **ammonia**. My aim is to build models that are both physically sound and usable in design workflows, and to derive **reduced‑order models** from high‑fidelity CFD and experimental data, so that essential combustion physics can inform real‑time engine control and calibration.
 
-In parallel, I am interested in using data‑driven methods and machine learning to accelerate CFD‑based design cycles and to link engine‑scale behavior with system‑level performance, while remaining **grounded in the underlying physics** to ensure **model reliability**.
+I am equally drawn to **combustion as a phenomenon in its own right**, beyond any single application. I would value the opportunity to complement my simulation background with **experimental combustion research**, working closer to optical diagnostics and measurement, to ground my models in observed physics and to strengthen the loop between simulation and experiment.
+
+I am also open to **data‑driven and machine‑learning approaches** where they can accelerate combustion modeling and design, and would enjoy deepening my skills in this direction.
 
 ## Beyond the lab
 
@@ -47,7 +50,7 @@ These activities help me maintain a balanced perspective and often provide unexp
 
 My work is naturally **collaborative** and sits at the intersection of engine development, transport operations, and energy systems analysis. I have co‑supervised master’s theses across energy, mechanical, civil, and aeronautical engineering, and contributed to teaching in areas such as electric mobility, on‑board data collection, and data‑driven analysis of vehicle and transport systems.
 
-I am currently **Global Engagement Chair** for the **ASME DRIVN 2026** conference and hope to meet you there!
+I am currently **Global Engagement Chair** for the **ASME DRIVN 2026** conference and **Vice Chair of the ASME Italy Section**, and I hope to meet you there!
 
 I am always eager to collaborate on projects that push the boundaries of CFD and its applications in sustainable technologies. If you are interested in discussing potential collaborations, student projects, or simply exchanging ideas on CFD, combustion, and sustainable transport, please feel free to contact me.
 

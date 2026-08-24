@@ -2,9 +2,9 @@
 title = "Simona Gurri'"
 author = "Simona Gurri'"
 copyright = "2025"
-description = "PhD in Energetics"
+description = "Research Fellow in reactive CFD for internal combustion engines and low-carbon fuels"
 profilePicture = "images/profile.jpeg"
-keywords = "Simona Gurri, Simona Gurrì, Gurrì, Gurri, PhD, Engines, Combustion, Internal Combustion Engines, CFD, Computational Fluid Dynamics, Railway"
+keywords = "Simona Gurri, Simona Gurrì, Gurrì, Gurri, PhD, reactive CFD, combustion, internal combustion engines, low-carbon fuels, hydrogen, CNG, ethanol, methanol, ammonia, chemical kinetics, CONVERGE, Cantera, HPC, heavy-duty engines, Computational Fluid Dynamics, Railway"
 favicon = "/"
 # example ["css/custom.css"]
 customCss = []
