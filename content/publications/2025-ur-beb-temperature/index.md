@@ -1,7 +1,7 @@
 ---
 title: "Battery electric buses for public transport: a methodological approach and data on energy consumption at different temperatures"
 authors:
-  - G. Sardella
+  - giulia-sardella
   - me
   - N. Andrenacci
   - B. Dalla Chiara

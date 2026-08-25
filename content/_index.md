@@ -143,6 +143,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      show_read_time: false
+      show_date: false
 
   - block: markdown
     id: statement
@@ -180,7 +182,7 @@ sections:
         communities, and environments.
 
         If you'd like to talk about combustion, CFD, sustainable transport, or a
-        possible collaboration, we can [get in touch](mailto:simona.gurri@polito.it).
+        possible collaboration, feel free to [get in touch](mailto:simona.gurri@polito.it).
     design:
       columns: '1'
 ---

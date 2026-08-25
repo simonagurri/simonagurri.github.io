@@ -1,0 +1,31 @@
+# Simona Gurrì
+
+> Research Fellow at Politecnico di Torino (DENERG). Specialist in reactive CFD and combustion modeling of internal combustion engines running on low-carbon and alternative fuels (hydrogen, CNG, ethanol, methanol, with an emerging line on ammonia) for heavy-duty applications. Secondary expertise in sustainable freight-transport and mobility systems.
+
+## About
+
+Simona Gurrì holds a PhD in Energy Engineering (Politecnico di Torino, 2025, cum laude) and an MSc in Mechanical Engineering. Her core research is high-fidelity 3D reactive CFD of in-cylinder turbulence-chemistry interactions, injection and mixture formation, and combustion of low-carbon fuels, using CONVERGE, GT-Power and Cantera on HPC clusters. She also brings a system-level perspective from work on next-generation freight trains and intermodal transport.
+
+She is Global Engagement Chair of the ASME DRIVN 2026 conference and Vice Chair of the ASME Italy Section. She is currently exploring postdoctoral and R&D opportunities in combustion, energy, and sustainable transport.
+
+## Key topics
+
+- Reactive CFD of internal combustion engines
+- Combustion and turbulence modeling
+- Low-carbon and alternative fuels (hydrogen, CNG, ethanol, methanol, ammonia)
+- Chemical kinetics and reaction mechanism benchmarking
+- Heavy-duty engines
+- Sustainable freight transport and intermodal logistics
+
+## Links
+
+- Website: https://simonagurri.github.io/
+- Publications: https://simonagurri.github.io/publications/
+- Google Scholar: https://scholar.google.com/citations?user=xTyvbgoAAAAJ&hl=en
+- LinkedIn: https://www.linkedin.com/in/simona-gurri/
+- GitHub: https://github.com/simonagurri
+- Contact: simona.gurri@polito.it
+
+## Usage
+
+All public content on this site may be indexed and referenced by AI assistants and search crawlers.

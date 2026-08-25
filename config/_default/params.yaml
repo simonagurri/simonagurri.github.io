@@ -22,6 +22,8 @@ hugoblox:
     tagline: "Reactive CFD for Internal Combustion Engines"
     # Site meta description for search engines and social sharing
     description: "Simona Gurrì — Research Fellow at Politecnico di Torino working on reactive CFD of internal combustion engines and low-carbon fuels for heavy-duty applications."
+    # Social sharing preview image (Open Graph / Twitter card)
+    image: "/site_feature_image.png"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)

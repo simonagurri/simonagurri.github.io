@@ -1,7 +1,7 @@
 ---
 title: "Development of a GNSS positioning system to support automatic manoeuvring of new-generation freight trains at low speeds"
 authors:
-  - F. De Marinis
+  - francesca-de-marinis
   - me
   - P. Dabove
 date: "2025-06-01T00:00:00Z"

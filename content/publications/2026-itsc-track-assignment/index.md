@@ -1,7 +1,7 @@
 ---
 title: "Energy-efficient joint optimization of train scheduling and track assignment in intermodal freight terminals"
 authors:
-  - O. Olivari
+  - erika-olivari
   - me
   - F. De Marinis
   - C. Caballini

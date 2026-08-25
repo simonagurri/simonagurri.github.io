@@ -1,7 +1,7 @@
 ---
 title: "Simulation-based decision-making framework for sustainable intermodal transport including next-generation freight electric multiple-units"
 authors:
-  - E. Olivari
+  - erika-olivari
   - me
   - F. De Marinis
   - C. Caballini

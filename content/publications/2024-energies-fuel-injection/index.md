@@ -1,7 +1,7 @@
 ---
 title: "Injected fuel mass and flow rate control in internal combustion engines: a systematic literature review"
 authors:
-  - Alessandro Ferrari
+  - alessandro-ferrari
   - me
   - Oscar Vento
 date: "2024-01-01T00:00:00Z"

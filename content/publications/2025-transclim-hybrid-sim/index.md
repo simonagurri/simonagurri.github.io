@@ -1,7 +1,7 @@
 ---
 title: "A hybrid simulation framework combining DES and microsimulation for multicriteria evaluation of intermodal freight systems: a case study on next-generation trains"
 authors:
-  - E. Olivari
+  - erika-olivari
   - me
   - F. De Marinis
   - C. Caballini
