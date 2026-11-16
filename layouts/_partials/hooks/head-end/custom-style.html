@@ -1,0 +1,133 @@
+{{/* Custom styling for the homepage card grids (research threads + stat counters). */}}
+{{/* Loaded via the head-end hook so it overrides theme defaults. */}}
+<style>
+  /* ───────────────────────────────────────────────────────────────
+     Let the two card sections breathe beyond the ~65ch prose column.
+     The markdown block wraps everything in .max-w-prose; widen it here
+     for these sections only, while keeping the intro paragraphs readable.
+     ─────────────────────────────────────────────────────────────── */
+  #research .max-w-prose,
+  #numbers  .max-w-prose { max-width: 68rem; }
+
+  #research .prose > p {
+    max-width: 44rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* ── Research "threads" cards ─────────────────────────────────── */
+  .hb-cards {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+    width: 100%;
+  }
+  @media (max-width: 800px) {
+    .hb-cards { grid-template-columns: 1fr; }
+  }
+
+  .hb-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 2rem 1.75rem;
+    border-radius: 1rem;
+    background: var(--hb-color-background, #fff);
+    border: 1px solid rgba(70, 70, 70, 0.16);
+    box-shadow: 0 8px 16px rgba(10, 10, 10, 0.06); /* Anatole $shadow--lightmode */
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+  }
+  .hb-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 28px rgba(10, 10, 10, 0.10);
+    border-color: rgb(var(--hb-primary-400-rgb) / 0.55);
+  }
+  .hb-card-ico {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3.25rem;
+    height: 3.25rem;
+    margin-bottom: 1.1rem;
+    font-size: 1.6rem;
+    line-height: 1;
+    border-radius: 9999px;
+    background: rgb(var(--hb-primary-500-rgb) / 0.12);
+  }
+  .hb-card h3 {
+    margin: 0 0 .55rem 0;
+    font-family: var(--hb-font-heading, inherit);
+    font-size: 1.15rem;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--hb-color-foreground, #464646);
+  }
+  .hb-card p {
+    margin: 0;
+    font-size: .92rem;
+    line-height: 1.6;
+    color: color-mix(in srgb, var(--hb-color-foreground, #464646) 78%, transparent);
+  }
+
+  /* ── Stat counters ────────────────────────────────────────────── */
+  .hb-stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+    width: 100%;
+  }
+  @media (max-width: 640px) {
+    .hb-stats { grid-template-columns: 1fr; }
+  }
+  .hb-stat {
+    padding: 2rem 1.25rem;
+    text-align: center;
+    border-radius: 1rem;
+    background: var(--hb-color-background, #fff);
+    border: 1px solid rgba(70, 70, 70, 0.16);
+    box-shadow: 0 8px 16px rgba(10, 10, 10, 0.06);
+    transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease;
+  }
+  .hb-stat:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 28px rgba(10, 10, 10, 0.10);
+    border-color: rgb(var(--hb-primary-400-rgb) / 0.55);
+  }
+  .hb-stat-num {
+    font-family: var(--hb-font-heading, inherit);
+    font-size: 2.75rem;
+    font-weight: 700;
+    line-height: 1;
+    color: rgb(var(--hb-primary-500-rgb));
+  }
+  .hb-stat-label {
+    margin-top: .5rem;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--hb-color-foreground, #464646);
+  }
+  .hb-stat-sub {
+    margin-top: .35rem;
+    font-size: .8rem;
+    color: color-mix(in srgb, var(--hb-color-foreground, #464646) 62%, transparent);
+  }
+
+  /* ── Skills grid: give the 3 groups more room than the prose column
+     so labels wrap less (the block otherwise caps at ~65ch). ──────── */
+  .grid:has(.skills-content) { max-width: 62rem; }
+
+  /* ── Dark-mode surfaces (Anatole #152028 background) ──────────── */
+  .dark .hb-card,
+  .dark .hb-stat {
+    background: rgba(255, 255, 255, 0.035);
+    border-color: rgba(238, 238, 238, 0.16);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.28); /* legible on dark */
+  }
+  .dark .hb-card:hover,
+  .dark .hb-stat:hover {
+    border-color: rgb(var(--hb-primary-400-rgb) / 0.6);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.38);
+  }
+</style>

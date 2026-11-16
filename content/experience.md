@@ -22,6 +22,8 @@ sections:
     content:
       title: Skills & Hobbies
       username: me
+    design:
+      columns: 3
   - block: resume-awards
     content:
       title: Awards

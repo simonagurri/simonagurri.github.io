@@ -2,115 +2,194 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: Simona Gurrì
+  given: Simona
+  family: Gurrì
+  alternate: ''
+  pronunciation: ''
+  pronouns: she/her
 postnominals:
   - PhD
-  - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "⚙️"
+role: Research Fellow · Reactive CFD for Internal Combustion Engines
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Simona Gurrì is a Research Fellow at Politecnico di Torino working on
+  reactive CFD of internal combustion engines fuelled by low-carbon
+  alternatives (hydrogen, CNG, ethanol, methanol) for heavy-duty
+  applications, with a line now extending toward ammonia. Her work
+  combines combustion and turbulence modeling, chemical kinetics, and
+  high-performance simulation, always validated against experimental
+  engine data.
+
+  Her core expertise is in engine-scale combustion physics: in-cylinder
+  turbulence-chemistry interactions, injection and mixture formation, and
+  models that support the design and control of advanced internal
+  combustion technologies. She employs CONVERGE CFD for 3D reactive
+  simulations, GT-Power for 1D modeling, and Cantera for chemical
+  kinetics and mechanism benchmarking, on CINECA HPC clusters.
+
+  Alongside engine CFD, a background in transportation and freight
+  systems gives her a system-level perspective, connecting engine-scale
+  choices to fleet and network performance — an uncommon dual grounding,
+  directly relevant where engine and vehicle-system research converge.
+  She is currently exploring postdoctoral and R&D opportunities in
+  combustion, energy, and sustainable transport.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Politecnico di Torino — Dept. of Energy (DENERG)
+    url: https://www.denerg.polito.it/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:simona.gurri@polito.it
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=xTyvbgoAAAAJ&hl=en
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/simona-gurri/
+  - icon: brands/github
+    url: https://github.com/simonagurri
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Reactive CFD & combustion modeling
+  - Internal combustion engines
+  - Low-carbon fuels (H₂, CNG, ethanol, methanol)
+  - Chemical kinetics & mechanism benchmarking
+  - High-performance computing
+  - Transport & energy systems
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Energetics
+    institution: Politecnico di Torino
+    start: 2021-11-01
+    end: 2025-10-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Awarded cum laude. Thesis on synergies of bimodal freight electric
+      multiple-unit trains and advanced ICE technologies for sustainable
+      intermodal transport. Supervisors: A. Ferrari, B. Dalla Chiara.
+  - degree: MSc Mechanical Engineering (Erasmus+)
+    institution: EPF Sceaux, France
+    start: 2019-09-01
+    end: 2020-06-30
+    summary: |
+      FEM modeling and simulation in Python of the sealing process of a
+      Nitinol ring for a particle accelerator. Courses held in French.
+  - degree: BSc & MSc Mechanical Engineering
+    institution: Politecnico di Torino
+    start: 2015-09-01
+    end: 2021-07-31
+    summary: |
+      Graduated 110/110. Thesis on functional testing of a regional
+      passenger train with a systems-engineering approach.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Fellow — B4IA project
+    org: Politecnico di Torino
+    start: 2025-10-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Design and prototyping (TRL 6) of an autonomous bus with a PFI
+      hydrogen-fuelled internal combustion engine. 1D and 3D CFD of the
+      injection system and combustion chamber; GT-Power modeling and
+      combustion calibration against experimental CNG data from FPT
+      Industrial; chemical kinetics analysis in Cantera. Project funded
+      by the Italian Ministry of Enterprises (MIMIT).
+  - role: Doctoral Researcher
+    org: Politecnico di Torino
+    start: 2021-11-01
+    end: 2025-10-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Advanced 3D reactive CFD of turbulence-combustion interactions in
+      low-carbon fuel engines (CONVERGE, RNG k-ε), validated against FPT
+      Industrial data. Developed a new boundary-condition optimization
+      strategy (Applied Thermal Engineering) and a physics-based spark
+      discharge model for cycle-to-cycle variability. Chemical mechanism
+      benchmarking (0D-to-3D). Large parallel simulations on CINECA HPC.
+      Secondary track in freight-transport and mobility systems.
+  - role: Teaching Assistant
+    org: Politecnico di Torino
+    start: 2022-09-01
+    end: 2026-03-31
+    summary: |
+      140+ hours taught on Fluid Machinery, Model-Based Systems
+      Engineering and Transportation Systems in MSc courses of Mechanical
+      and Civil Engineering, plus an Executive Master. Supervised 20+ MSc
+      theses. Top student-feedback scores (avg. 3.89/4) for three years.
+  - role: Contract Professor
+    org: Università della Calabria
+    start: 2024-07-01
+    end: 2024-07-31
+    summary: |
+      Delivered a course on theory and numerical applications through
+      direct data collection from vehicles, in the II-level Master on
+      Electric Mobility and Circular Economy (MEES).
+  - role: Process Engineering Intern
+    org: Alstom S.A., Savigliano
+    start: 2020-09-01
+    end: 2021-03-31
+    summary: |
+      Process FMECA for Coradia Stream regional-train validation; fault
+      tree analysis on 15+ subsystems; RPN matrices for 200+ components.
 
 skills:
-  - name: Technical Skills
+  - name: CFD & Combustion
     items:
-      - label: Python
+      - label: CONVERGE CFD (3D reactive)
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: GT-Power (1D)
         level: 4
-  - name: Research & Communication
+      - label: Cantera (kinetics, mechanism benchmarking)
+        level: 4
+  - name: Computing
     items:
-      - label: Academic Writing
+      - label: Python (NumPy, SciPy, pandas)
+        level: 4
+      - label: Matlab
+        level: 4
+      - label: HPC (MPI, OpenMP)
+        level: 4
+  - name: Beyond the lab
+    items:
+      - label: Marathon training & running
         level: 5
-      - label: Conference Presentations
+        icon: hero/bolt
+      - label: Hiking & multi-day trekking
+        level: 5
+        icon: hero/map
+      - label: Tennis, padel & volleyball
         level: 4
-      - label: Grant Proposals
-        level: 4
+        icon: hero/trophy
+      - label: Landscape photography
+        level: 3
+        icon: hero/camera
 
 languages:
-  - name: English
+  - name: Italian
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 5
     label: Fluent
+  - name: French
+    level: 3
+    label: Intermediate
+  - name: Spanish
+    level: 2
+    label: Basic
+  - name: Russian
+    level: 1
+    label: Learning
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: 4th Italian Cattedra Abertis Award
+    awarder: Cattedra Abertis
+    date: "2026-05-01"
+    summary: |
+      Awarded 5000 € for PhD research on sustainable mobility.
+    icon: hero/trophy
+  - title: First Place, Engineering & Industrial Design
+    awarder: 19th PACE Forum, Warren, Michigan (USA)
+    date: "2018-01-01"
+    summary: |
+      International student team competition (Team PACE @PoliTo).
     icon: hero/trophy

@@ -1,0 +1,45 @@
+# HugoBlox Theme Pack — replica of the old Anatole site palette
+# Extracted from simonagurri.github.io/assets/scss/modules/_variables.scss
+#   Light: accent #ffffff (background), primary #464646 (text)
+#   Dark:  accent #152028 (background), primary #eeeeee (text)
+#   Link/accent (info): #6086b4  — used for both modes
+# https://docs.hugoblox.com
+
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "Anatole"
+    vendor: "custom"
+    version: "1.0.0"
+    license: "MIT"
+    description: "Replica of Simona's previous Anatole theme colours"
+
+  type: "dual"
+
+  light:
+    colors:
+      primary: "#6086b4"   # Anatole $info — muted steel blue
+      secondary: "#6086b4" # single-accent look (kept identical, like Anatole)
+    surfaces:
+      background: "#ffffff" # Anatole $accent--lightmode
+      foreground: "#464646" # Anatole $primary--lightmode
+      header:
+        background: "#ffffff"
+        foreground: "#464646"
+      footer:
+        background: "#ffffff"
+        foreground: "#464646"
+
+  dark:
+    colors:
+      primary: "#6086b4"
+      secondary: "#6086b4"
+    surfaces:
+      background: "#152028" # Anatole $accent--darkmode
+      foreground: "#eeeeee" # Anatole $primary--darkmode
+      header:
+        background: "#152028"
+        foreground: "#eeeeee"
+      footer:
+        background: "#152028"
+        foreground: "#eeeeee"
